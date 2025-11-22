@@ -3,5 +3,5 @@ hello github
 master branch edit
 
 This is a feature branch edit
-feature branch conflict edit
- feature-branch
+feature branch conflict editt
+feature-branch
